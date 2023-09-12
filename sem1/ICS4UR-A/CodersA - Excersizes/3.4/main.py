@@ -1,0 +1,11 @@
+"""Locate the error"""
+
+
+"""extra parentheses around the first expression"""
+# print(((2* 3)/4 + (5-6/7)* 8 )
+# print( ((12* 13)/14 + (15-16)/17)* 18 )
+
+# both run if fixed
+
+print((2* 3)/4 + (5-6/7)* 8)
+print( ((12* 13)/14 + (15-16)/17)* 18)
