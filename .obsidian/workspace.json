@@ -4,16 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "b291613fed29e68f",
+        "id": "061bf8a7b3ab2128",
         "type": "tabs",
         "children": [
           {
-            "id": "2affa9775d97224d",
+            "id": "6ef23f332593609f",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.1.pdf"
+                "file": "sem1/ICS4UR-A/Tasks.md",
+                "mode": "source",
+                "source": false
               }
             }
           }
@@ -67,7 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 349.5
   },
   "right": {
     "id": "43e98d2d768cfde8",
@@ -83,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.1.pdf",
+                "file": "sem1/ICS4UR-A/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -100,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.1.pdf",
+                "file": "sem1/ICS4UR-A/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -123,7 +125,17 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.1.pdf"
+                "file": "sem1/ICS4UR-A/Tasks.md"
+              }
+            }
+          },
+          {
+            "id": "3f8d5e439916e0fe",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency"
               }
             }
           }
@@ -144,21 +156,25 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "91eddca836d79cc9",
+  "active": "6ef23f332593609f",
   "lastOpenFiles": [
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/2.4.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/2.2.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/2.1.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.3.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.2.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/1.1.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Alkenes Worksheet.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Lesson 3 - Aromatic Hydrocarbons - Copy (1).pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Lesson 6 - Polymers - Copy.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Worksheet- Alkynes and Cyclic Hydrocarbons.pdf",
-    "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Intro-Hydrocarbons-Alkanes-Alkyl Halides/Lesson 1 - Alkanes Practice.pdf",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.1/main.py",
+    "sem1/ICS4UR-A/CodersA - Excersizes/instruction.pdf",
+    "sem1/ICS4UR-A/CodersA - Excersizes/Unconfirmed 170785.crdownload",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.1",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.5",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.4",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.3",
+    "sem1/ICS4UR-A/CodersA - Excersizes/3.2",
+    "sem1/ICS4UR-A/CodersA - Excersizes",
+    "sem1/ICS4UR-A/Untitled Folder",
+    "sem1/ICS4UR-A/E-Waste Assignment Preview.md",
+    "sem1/ICS4UR-A/Tasks.md",
+    "sem1/SCH4U0-B/UNIT 1 - ORGANIC CHEMISTRY/Hydrocarbons-Alkanes and Alkyl Halides/Lesson 1 - Alkanes and Alkyl Halides.pdf",
+    "sem1/SCH4U0-B/Course-Intro-Review/Video Lesson - Review.md",
+    "sem1/SCH4U0-B/Daily Syllabus.md",
+    "sem1/SCH4U0-B/UNIT 1 - ORGANIC CHEMISTRY/Hydrocarbons-Alkanes and Alkyl Halides/Video Lesson.md",
     "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Intro-Hydrocarbons-Alkanes-Alkyl Halides/Learning Goals.md",
-    "sem1/SCH4U0-B/HW-Link.md",
     "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/Note.md",
     "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/number_chart.png",
     "imgs/Pasted image 20230909145721.png",
@@ -166,8 +182,6 @@
     "imgs/Pasted image 20230909150003.png",
     "imgs/Pasted image 20230909145948.png",
     "imgs/Pasted image 20230909145738.png",
-    "sem1/MHF4U0-C/Tasks.md",
-    "sem1/ICS4UR-A/E-Waste Assignment Preview.md",
-    "sem1/ICS4UR-A/Tasks.md"
+    "sem1/MHF4U0-C/Tasks.md"
   ]
 }
