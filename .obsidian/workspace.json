@@ -4,19 +4,15 @@
     "type": "split",
     "children": [
       {
-        "id": "061bf8a7b3ab2128",
+        "id": "16a4ce05db749d6c",
         "type": "tabs",
         "children": [
           {
-            "id": "6ef23f332593609f",
+            "id": "090fd199c20792bf",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "sem1/ICS4UR-A/Tasks.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
         ]
@@ -85,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "sem1/ICS4UR-A/Tasks.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "sem1/ICS4UR-A/Tasks.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -124,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "sem1/ICS4UR-A/Tasks.md"
-              }
+              "state": {}
             }
           },
           {
@@ -156,8 +148,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "6ef23f332593609f",
+  "active": "090fd199c20792bf",
   "lastOpenFiles": [
+    "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/1.1 Power Functions - 2022.pdf",
+    "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/Note.md",
     "sem1/ICS4UR-A/Tasks.md",
     "sem1/ICS4UR-A/CodersA - Excersizes/3.5/main.py",
     "sem1/ICS4UR-A/CodersA - Excersizes/3.4/main.py",
@@ -168,13 +162,11 @@
     "sem1/ICS4UR-A/CodersA - Excersizes/3.1",
     "sem1/ICS4UR-A/CodersA - Excersizes/3.5",
     "sem1/ICS4UR-A/CodersA - Excersizes/3.4",
-    "sem1/ICS4UR-A/CodersA - Excersizes/3.3",
     "sem1/ICS4UR-A/E-Waste Assignment Preview.md",
     "sem1/SCH4U0-B/Course-Intro-Review/Video Lesson - Review.md",
     "sem1/SCH4U0-B/Daily Syllabus.md",
     "sem1/SCH4U0-B/UNIT 1 - ORGANIC CHEMISTRY/Hydrocarbons-Alkanes and Alkyl Halides/Video Lesson.md",
     "sem1/SCH4U0-B/UNIT-1-ORGANIC-CHEM/Intro-Hydrocarbons-Alkanes-Alkyl Halides/Learning Goals.md",
-    "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/Note.md",
     "sem1/MHF4U0-C/Unit-1 - Polynomial Functions/number_chart.png",
     "imgs/Pasted image 20230909145721.png",
     "imgs/Pasted image 20230909150017.png",
